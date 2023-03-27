@@ -1,5 +1,5 @@
 {
-    "address": [
+    "address":
         {
             "code": "88040-050",
             "state": "SC",
@@ -10,5 +10,4 @@
             "ok": true,
             "statusText": "ok"
         }
-    ]
 }
