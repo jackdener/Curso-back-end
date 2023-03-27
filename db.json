@@ -1,4 +1,6 @@
 {
+    "address": [
+        {
             "code": "88040-050",
             "state": "SC",
             "city": "Florianópolis",
@@ -7,4 +9,6 @@
             "status": 200,
             "ok": true,
             "statusText": "ok"
+        }
+    ]
 }
