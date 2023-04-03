@@ -1,5 +1,5 @@
 {
-    "cep": [{
+    "85301-070": {
         "code": "85301-070",
         "state": "PR",
         "city": "Laranjeiras do Sul",
@@ -9,7 +9,8 @@
         "ok": true,
         "statusText": "ok"
     },
-    {
+    
+    "88104-800": {
         "code": "88104-800",
         "state": "SC",
         "city": "São José",
@@ -19,5 +20,5 @@
         "ok": true,
         "statusText": "ok"
     }
-    ]
+    
 }
