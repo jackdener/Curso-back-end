@@ -1,5 +1,5 @@
 {
-    "cep": [{
+    "cep": {
         "code": "85301-070",
         "state": "PR",
         "city": "Laranjeiras do Sul",
@@ -19,5 +19,5 @@
         "ok": true,
         "statusText": "ok"
     }
-    ]
+    
 }
