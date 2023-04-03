@@ -1,24 +1,24 @@
 {
-    "85301-070": {
-        "code": "85301-070",
-        "state": "PR",
-        "city": "Laranjeiras do Sul",
-        "district": "Centro",
-        "address": "Rua Sete de Setembro - de 1502/1503 ao fim",
-        "status": 200,
-        "ok": true,
-        "statusText": "ok"
-    },
-    
-    "88104-800": {
-        "code": "88104-800",
-        "state": "SC",
-        "city": "São José",
-        "district": "Distrito Industrial",
-        "address": "Rodovia BR-101 - do km 209,502 ao fim - lado par",
-        "status": 200,
-        "ok": true,
-        "statusText": "ok"
+    "cep": {
+        "85301-070": {
+            "code": "85301-070",
+            "state": "PR",
+            "city": "Laranjeiras do Sul",
+            "district": "Centro",
+            "address": "Rua Sete de Setembro - de 1502/1503 ao fim",
+            "status": 200,
+            "ok": true,
+            "statusText": "ok"
+        },
+        "88104-800": {
+            "code": "88104-800",
+            "state": "SC",
+            "city": "São José",
+            "district": "Distrito Industrial",
+            "address": "Rodovia BR-101 - do km 209,502 ao fim - lado par",
+            "status": 200,
+            "ok": true,
+            "statusText": "ok"
+        }
     }
-    
 }
